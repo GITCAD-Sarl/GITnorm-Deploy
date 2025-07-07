@@ -23,6 +23,26 @@
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
         }
+        {
+          "id": "bimnorm_revit2025",
+          "nom": "BIMnorm pour Revit 2025",
+          "description": "Version compatible Revit 2025 avec nouvelles fonctions Dynamo",
+          "version": "1.0.0",
+          "datePublication": "2025-06-25",
+          "image": "placeholder_bimnorm_revit2024.png",
+          "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
+          "hashSHA256": ""
+        }
+        {
+          "id": "bimnorm_revit2026",
+          "nom": "BIMnorm pour Revit 2026",
+          "description": "Version compatible Revit 2026 avec nouvelles fonctions Dynamo",
+          "version": "1.0.0",
+          "datePublication": "2025-06-25",
+          "image": "placeholder_bimnorm_revit2024.png",
+          "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
+          "hashSHA256": ""
+        }
       ]
     },
     {
@@ -32,6 +52,36 @@
           "id": "cadnorm_autocad2023",
           "nom": "CADnorm pour AutoCAD 2023",
           "description": "Plugin AutoCAD 2023 – gestion avancée des DWG",
+          "version": "1.0.0",
+          "datePublication": "2025-06-15",
+          "image": "placeholder_cadnorm_autocad2023.png",
+          "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "hashSHA256": ""
+        }
+        {
+          "id": "cadnorm_autocad2024",
+          "nom": "CADnorm pour AutoCAD 2024",
+          "description": "Plugin AutoCAD 2024 – gestion avancée des DWG",
+          "version": "1.0.0",
+          "datePublication": "2025-06-15",
+          "image": "placeholder_cadnorm_autocad2023.png",
+          "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "hashSHA256": ""
+        }
+        {
+          "id": "cadnorm_autocad2025",
+          "nom": "CADnorm pour AutoCAD 2025",
+          "description": "Plugin AutoCAD 2025 – gestion avancée des DWG",
+          "version": "1.0.0",
+          "datePublication": "2025-06-15",
+          "image": "placeholder_cadnorm_autocad2023.png",
+          "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "hashSHA256": ""
+        }
+        {
+          "id": "cadnorm_autocad2026",
+          "nom": "CADnorm pour AutoCAD 2026",
+          "description": "Plugin AutoCAD 2026 – gestion avancée des DWG",
           "version": "1.0.0",
           "datePublication": "2025-06-15",
           "image": "placeholder_cadnorm_autocad2023.png",
