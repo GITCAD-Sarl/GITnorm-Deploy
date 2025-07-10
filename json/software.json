@@ -9,7 +9,7 @@
           "description": "Plugin Revit 2023 – scripts Dynamo sécurisés et automatisations",
           "version": "0.0.0",
           "datePublication": "1990-01-01",
-          "image": "Revit_256x144.jpg",
+          "image": "Revit_48x48.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2023.zip",
           "hashSHA256": ""
         },
