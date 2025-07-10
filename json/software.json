@@ -4,7 +4,7 @@
       "nom": "Revit",
       "logiciels": [
         {
-          "id": "bimnorm_revit2023",
+          "id": "BIMnorm.Revit2023",
           "nom": "BIMnorm pour Revit 2023",
           "description": "Plugin Revit 2023 – scripts Dynamo sécurisés et automatisations",
           "version": "0.0.0",
@@ -14,7 +14,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "bimnorm_revit2024",
+          "id": "BIMnorm.Revit2024",
           "nom": "BIMnorm pour Revit 2024",
           "description": "Version compatible Revit 2024 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
@@ -24,7 +24,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "bimnorm_revit2025",
+          "id": "BIMnorm.Revit2025",
           "nom": "BIMnorm pour Revit 2025",
           "description": "Version compatible Revit 2025 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
@@ -34,7 +34,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "bimnorm_revit2026",
+          "id": "BIMnorm.Revit2026",
           "nom": "BIMnorm pour Revit 2026",
           "description": "Version compatible Revit 2026 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
@@ -49,7 +49,7 @@
       "nom": "AutoCAD",
       "logiciels": [
         {
-          "id": "cadnorm_autocad2023",
+          "id": "CADnorm.Autocad2023",
           "nom": "CADnorm pour AutoCAD 2023",
           "description": "Plugin AutoCAD 2023 – gestion avancée des DWG",
           "version": "0.0.0",
@@ -59,7 +59,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "cadnorm_autocad2024",
+          "id": "CADnorm.Autocad2024",
           "nom": "CADnorm pour AutoCAD 2024",
           "description": "Plugin AutoCAD 2024 – gestion avancée des DWG",
           "version": "0.0.0",
@@ -69,7 +69,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "cadnorm_autocad2025",
+          "id": "CADnorm.Autocad2025",
           "nom": "CADnorm pour AutoCAD 2025",
           "description": "Plugin AutoCAD 2025 – gestion avancée des DWG",
           "version": "0.0.0",
@@ -79,7 +79,7 @@
           "hashSHA256": ""
         },
         {
-          "id": "cadnorm_autocad2026",
+          "id": "CADnorm.Autocad2026",
           "nom": "CADnorm pour AutoCAD 2026",
           "description": "Plugin AutoCAD 2026 – gestion avancée des DWG",
           "version": "0.0.0",
