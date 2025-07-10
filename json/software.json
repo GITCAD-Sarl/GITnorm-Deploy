@@ -19,7 +19,7 @@
           "description": "Version compatible Revit 2024 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
           "datePublication": "1990-01-01",
-          "image": "placeholder_bimnorm_revit2024.png",
+          "image": "Revit_48x48.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
         },
@@ -29,7 +29,7 @@
           "description": "Version compatible Revit 2025 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
           "datePublication": "1990-01-01",
-          "image": "placeholder_bimnorm_revit2024.png",
+          "image": "Revit_48x48.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
         },
@@ -39,7 +39,7 @@
           "description": "Version compatible Revit 2026 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
           "datePublication": "1990-01-01",
-          "image": "placeholder_bimnorm_revit2024.png",
+          "image": "Revit_48x48.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
         }
