@@ -7,7 +7,7 @@
           "id": "BIMnorm.Revit2023",
           "nom": "BIMnorm pour Revit 2023",
           "description": "Plugin Revit 2023 – scripts Dynamo sécurisés et automatisations",
-          "version": "0.0.0",
+          "version": "0.0.1",
           "datePublication": "1990-01-01",
           "image": "Revit_48x48.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2023.zip",
