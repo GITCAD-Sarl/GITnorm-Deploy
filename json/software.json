@@ -8,7 +8,7 @@
           "nom": "BIMnorm pour Revit 2023",
           "description": "Plugin Revit 2023 – scripts Dynamo sécurisés et automatisations",
           "version": "0.0.0",
-          "datePublication": "2025-07-03",
+          "datePublication": "1990-01-01",
           "image": "placeholder_bimnorm_revit2023.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2023.zip",
           "hashSHA256": ""
@@ -18,7 +18,7 @@
           "nom": "BIMnorm pour Revit 2024",
           "description": "Version compatible Revit 2024 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
-          "datePublication": "2025-06-25",
+          "datePublication": "1990-01-01",
           "image": "placeholder_bimnorm_revit2024.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
@@ -28,7 +28,7 @@
           "nom": "BIMnorm pour Revit 2025",
           "description": "Version compatible Revit 2025 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
-          "datePublication": "2025-06-25",
+          "datePublication": "1990-01-01",
           "image": "placeholder_bimnorm_revit2024.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
@@ -38,7 +38,7 @@
           "nom": "BIMnorm pour Revit 2026",
           "description": "Version compatible Revit 2026 avec nouvelles fonctions Dynamo",
           "version": "0.0.0",
-          "datePublication": "2025-06-25",
+          "datePublication": "1990-01-01",
           "image": "placeholder_bimnorm_revit2024.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
@@ -53,7 +53,7 @@
           "nom": "CADnorm pour AutoCAD 2023",
           "description": "Plugin AutoCAD 2023 – gestion avancée des DWG",
           "version": "0.0.0",
-          "datePublication": "2025-06-15",
+          "datePublication": "1990-01-01",
           "image": "placeholder_cadnorm_autocad2023.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
@@ -63,7 +63,7 @@
           "nom": "CADnorm pour AutoCAD 2024",
           "description": "Plugin AutoCAD 2024 – gestion avancée des DWG",
           "version": "0.0.0",
-          "datePublication": "2025-06-15",
+          "datePublication": "1990-01-01",
           "image": "placeholder_cadnorm_autocad2023.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
@@ -73,7 +73,7 @@
           "nom": "CADnorm pour AutoCAD 2025",
           "description": "Plugin AutoCAD 2025 – gestion avancée des DWG",
           "version": "0.0.0",
-          "datePublication": "2025-06-15",
+          "datePublication": "1990-01-01",
           "image": "placeholder_cadnorm_autocad2023.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
@@ -83,7 +83,7 @@
           "nom": "CADnorm pour AutoCAD 2026",
           "description": "Plugin AutoCAD 2026 – gestion avancée des DWG",
           "version": "0.0.0",
-          "datePublication": "2025-06-15",
+          "datePublication": "1990-01-01",
           "image": "placeholder_cadnorm_autocad2023.png",
           "fichierZip": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
