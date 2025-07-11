@@ -10,7 +10,7 @@
           "version": "0.0.1",
           "publishDate": "1990-01-01",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://api.github.com/repos/GITCAD-Sarl/GITnorm-Deploy/BIMnorm/BIMnorm.Revit2023/BIMnorm.Revit2023_v0.0.1.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2023/BIMnorm.Revit2023_v0.0.1.zip",
           "hashSHA256": "618005c92d9d75f7fd4c7cd4c10097dacf62898201892991ad48dca9e351855b"
         },
         {
