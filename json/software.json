@@ -12,6 +12,8 @@
           "image": "Revit_48x48.png",
           "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2023/BIMnorm.Revit2023_v0.0.1.zip",
           "hashSHA256": "618005c92d9d75f7fd4c7cd4c10097dacf62898201892991ad48dca9e351855b"
+          "IsComingSoon": false,
+          "IsObsolete": false
         },
         {
           "id": "BIMnorm.Revit2024",
@@ -22,6 +24,8 @@
           "image": "Revit_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "BIMnorm.Revit2025",
@@ -32,6 +36,8 @@
           "image": "Revit_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "BIMnorm.Revit2026",
@@ -42,6 +48,8 @@
           "image": "Revit_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         }
       ]
     },
@@ -57,6 +65,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "CADnorm.Autocad2024",
@@ -67,6 +77,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "CADnorm.Autocad2025",
@@ -77,6 +89,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "CADnorm.Autocad2026",
@@ -87,6 +101,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": ""
+          "IsComingSoon": true,
+          "IsObsolete": false
         }
       ]
     }
