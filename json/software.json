@@ -12,7 +12,7 @@
           "image": "GITnorm_48x48.png",
           "downloadUrl": "",
           "hashSHA256": "",
-          "IsComingSoon": false,
+          "IsComingSoon": true,
           "IsObsolete": false
         },
         {
@@ -24,7 +24,7 @@
           "image": "GITnorm_48x48.png",
           "downloadUrl": "",
           "hashSHA256": "",
-          "IsComingSoon": false,
+          "IsComingSoon": true,
           "IsObsolete": false
         }
       ]
