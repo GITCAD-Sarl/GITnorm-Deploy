@@ -89,8 +89,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": "",
-          "IsComingSoon": true,
-          "IsObsolete": false
+          "IsComingSoon": false,
+          "IsObsolete": true
         },
         {
           "id": "CADnorm.Autocad2026",
@@ -102,7 +102,7 @@
           "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
           "hashSHA256": "",
           "IsComingSoon": true,
-          "IsObsolete": false
+          "IsObsolete": true
         }
       ]
     }
