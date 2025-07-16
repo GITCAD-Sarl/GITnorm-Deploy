@@ -1,6 +1,35 @@
 {
   "categories": [
     {
+      "name": "Core",
+      "softwares": [
+        {
+          "id": "GITnorm.Manager",
+          "name": "",
+          "description": "",
+          "version": "0.0.0",
+          "publishDate": "1990-01-01",
+          "image": "Revit_48x48.png",
+          "downloadUrl": "",
+          "hashSHA256": "",
+          "IsComingSoon": false,
+          "IsObsolete": false
+        },
+        {
+          "id": "GITnorm.Updater",
+          "name": "",
+          "description": "",
+          "version": "0.0.0",
+          "publishDate": "1990-01-01",
+          "image": "Revit_48x48.png",
+          "downloadUrl": "",
+          "hashSHA256": "",
+          "IsComingSoon": false,
+          "IsObsolete": false
+        }
+      ]
+    },
+    {
       "name": "Revit",
       "softwares": [
         {
@@ -22,7 +51,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
           "IsObsolete": false
@@ -34,7 +63,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
           "IsObsolete": false
@@ -46,7 +75,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/BIMnorm.Revit2024.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
           "IsObsolete": false
@@ -63,7 +92,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Autocad_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
           "IsObsolete": false
@@ -75,7 +104,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Autocad_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
           "IsObsolete": false
@@ -87,7 +116,7 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Autocad_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": false,
           "IsObsolete": true
@@ -99,10 +128,10 @@
           "version": "0.0.0",
           "publishDate": "1990-01-01",
           "image": "Autocad_48x48.png",
-          "downloadUrl": "https://github.com/tonorg/GITnorm-Deploy/raw/main/updates/CADnorm.Autocad2023.zip",
+          "downloadUrl": "",
           "hashSHA256": "",
           "IsComingSoon": true,
-          "IsObsolete": true
+          "IsObsolete": false
         }
       ]
     }
