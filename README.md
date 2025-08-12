@@ -9,20 +9,40 @@ Ce dépôt est mis à jour automatiquement via l’application `GITnorm.Deploy`.
 
 ## 📦 Arborescence type
 
-**GITnorm-Deploy/**  
-**• GITnorm.Core/**  
-*— GITnorm.Core_v1.0.0.zip*
-
 **• GITnorm.Manager/**  
 *— GITnorm.Manager_v1.3.2.zip*
 
 **• BIMnorm/**  
  **• BIMnorm.Revit2023/**  
- *— BIMnorm.Revit2023_v1.2.0.zip*
+ *— BIMnorm.Revit2023_v0.0.1.zip*  
+  **• BIMnorm.Revit2024/**  
+ *— BIMnorm.Revit2024_v0.0.1.zip*  
+  **• BIMnorm.Revit2025/**  
+ *— BIMnorm.Revit2025_v0.0.1.zip*  
+  **• BIMnorm.Revit2026/**  
+ *— BIMnorm.Revit2026_v0.0.1.zip*  
+   **• packages/**  
+ *— DynamoIronPython2.7-2.5.0.zip.zip*  
+  *— DynamoIronPython2.7-3.2.1.zip*  
+   **• scripts/**  
+ *— AllPoints.git*  
+ *— AssociateActiveWorkset.git*  
+ *— CopyElementsWithAssociatedWorkset.git*  
+ *— Create3dLinkedElements.git*  
+ *— DefineActiveWorkset.git*  
+ *— etc.*
 
 **• CADnorm/**  
- **• CADnorm.Autocad2024/**  
- *— CADnorm.Autocad2024_v1.0.4.zip*
+ **• CADnorm.Autocad2023/**  
+ *— CADnorm.Autocad2023_v0.0.1.zip*  
+  **• CADnorm.Autocad2024/**  
+ *— CADnorm.Autocad2024_v0.0.1.zip*  
+  **• CADnorm.Autocad2025/**  
+ *— CADnorm.Autocad2025_v0.0.1.zip*  
+  **• CADnorm.Autocad2026/**  
+ *— CADnorm.Autocad2026_v0.0.1.zip*  
+   **• packages/**  
+   **• scripts/**  
 
 **• json/**  
 *— software.json*  
