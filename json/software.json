@@ -106,8 +106,8 @@
           "image": "Autocad_48x48.png",
           "downloadUrl": "",
           "hashSHA256": "",
-          "IsComingSoon": false,
-          "IsObsolete": true
+          "IsComingSoon": true,
+          "IsObsolete": false
         },
         {
           "id": "CADnorm.Autocad2026",
@@ -125,6 +125,7 @@
     }
   ]
 }
+
 
 
 
