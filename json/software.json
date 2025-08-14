@@ -7,10 +7,10 @@
           "id": "GITnorm.Manager",
           "name": "GITnorm Manager",
           "description": "Gestionnaire d'installation, mise à jour et désinstallation des plugins GITnorm.",
-          "version": "0.0.2",
+          "version": "0.0.1",
           "publishDate": "12.08.2025",
           "image": "GITnorm_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/GITnorm.Manager/GITnorm.Manager_v0.0.2.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/GITnorm.Manager/GITnorm.Manager_v0.0.1.zip",
           "hashSHA256": "b8d8d9121754a782404e465413b5e633fe14c958b919cea7edef9747df705b53",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -125,6 +125,7 @@
     }
   ]
 }
+
 
 
 
