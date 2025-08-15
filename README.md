@@ -70,7 +70,6 @@ Ce dépôt est mis à jour automatiquement via l’application `GITnorm.Deploy`.
 
 ## 🔐 Accès
 
-- Accès restreint (interne GITCAD Sàrl)
 - Aucun exécutable ne doit être publié ici manuellement
 - Pas de Release GitHub : tout passe via le commit Git classique
 
