@@ -36,10 +36,10 @@
           "id": "BIMnorm.Revit2024",
           "name": "BIMnorm pour Revit 2024",
           "description": "Version compatible Revit 2024 avec nouvelles fonctions Dynamo",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "publishDate": "12.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2024/BIMnorm.Revit2024_v0.0.1.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2024/BIMnorm.Revit2024_v0.0.2.zip",
           "hashSHA256": "5f7a86ccc9a8216de5bddaf83f58432432d4bad695beb47ecc36c8e3f61c5d12",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -48,10 +48,10 @@
           "id": "BIMnorm.Revit2025",
           "name": "BIMnorm pour Revit 2025",
           "description": "Version compatible Revit 2025 avec nouvelles fonctions Dynamo",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "publishDate": "12.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2025/BIMnorm.Revit2025_v0.0.1.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2025/BIMnorm.Revit2025_v0.0.2.zip",
           "hashSHA256": "236daf076ccc06d706a128227c9e2b3800e24570346f626d2bef64f3dbf59404",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -60,10 +60,10 @@
           "id": "BIMnorm.Revit2026",
           "name": "BIMnorm pour Revit 2026",
           "description": "Version compatible Revit 2026 avec nouvelles fonctions Dynamo",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "publishDate": "12.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2026/BIMnorm.Revit2026_v0.0.1.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2026/BIMnorm.Revit2026_v0.0.2.zip",
           "hashSHA256": "97a2120274defb6f110a0b80d7c7bd7d56da84169dd597f2e31ef06038a55347",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -125,6 +125,7 @@
     }
   ]
 }
+
 
 
 
