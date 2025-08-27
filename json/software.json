@@ -27,7 +27,7 @@
           "version": "0.0.10",
           "publishDate": "27.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2023/BIMnorm.Revit2023_v0.0.5.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2023/BIMnorm.Revit2023_v0.0.10.zip",
           "hashSHA256": "",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -39,7 +39,7 @@
           "version": "0.0.5",
           "publishDate": "26.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2024/BIMnorm.Revit2024_v0.0.2.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2024/BIMnorm.Revit2024_v0.0.5.zip",
           "hashSHA256": "",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -51,7 +51,7 @@
           "version": "0.0.5",
           "publishDate": "26.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2025/BIMnorm.Revit2025_v0.0.2.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2025/BIMnorm.Revit2025_v0.0.5.zip",
           "hashSHA256": "",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -63,7 +63,7 @@
           "version": "0.0.5",
           "publishDate": "26.08.2025",
           "image": "Revit_48x48.png",
-          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2026/BIMnorm.Revit2026_v0.0.2.zip",
+          "downloadUrl": "https://github.com/GITCAD-Sarl/GITnorm-Deploy/blob/main/BIMnorm/BIMnorm.Revit2026/BIMnorm.Revit2026_v0.0.5.zip",
           "hashSHA256": "",
           "IsComingSoon": false,
           "IsObsolete": false
@@ -125,6 +125,7 @@
     }
   ]
 }
+
 
 
 
